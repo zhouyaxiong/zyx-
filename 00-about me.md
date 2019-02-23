@@ -16,4 +16,4 @@
 如今社会我们要讲情怀 ,但是是八十分的情怀还是一百分的情怀 确很不好说！万恶的资本整天画饼骗你钱骗你汗
 ----
 
-![xiaoqiang](https://github.com/zhouyaxiong/zyx-website/blob/master/xq.jpg)
+![xiaoqiang](http://img0.imgtn.bdimg.com/it/u=1940006903,1257314707&fm=26&gp=0.jpg)
