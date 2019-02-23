@@ -50,4 +50,3 @@ yum install xmlto
 #查看git版本号
 git --version
 git version 2.2.1
-
