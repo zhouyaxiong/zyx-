@@ -2,6 +2,9 @@
 把ssh的公钥复制到github中，如果主机改名字就需要重新复制公钥    
 使用visual staudio code下载markdown插件进行markdown编辑。还有预览功能，可以进行markdown编辑。
 
+关联远程仓库：
+git remote add origin git@github.com:zhouyaxiong/zyx-website.git
+
 初始化之后配置git
 git config --global user.name "zhouyaxiong"      
 git config --global user.email "411235298@qq.com"     
@@ -41,6 +44,10 @@ git rm 我的文件 #在本地仓储删除文件
 创建并切换到新分支： git checkout -b newBranch      
 将新分支发布在github上： git push origin newBranch      
 
+git branch  分支查看    
+git branch -a 远程分支查看     
+git remote -v 远程仓库查看     
+
 本地修改了一堆文件(并没有使用git add到暂存区)，想放弃修改。    
 单个文件/文件夹：     
 $ git checkout -- filename
@@ -52,3 +59,9 @@ $ git checkout .
         输入命令：git clone -b 分支名 git地址       
 		git clone -b book/05-initproject git@github.com:zhouyaxiong/typeidea.git`
 		
+>添加的时候使用git commit，然后在文件中使用vim进行编写说明
+
+
+
+
+
