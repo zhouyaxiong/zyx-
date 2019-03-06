@@ -61,6 +61,10 @@ $ git checkout .
 		
 >添加的时候使用git commit，然后在文件中使用vim进行编写说明
 
+>分支合并
+git checkout master        
+git  merge dev       
+git push         
 
 
 
