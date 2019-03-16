@@ -1,0 +1,25 @@
+<html>
+    <head>
+        <script src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js">
+        </script>
+    </head>
+    <body>
+        <p>20190316</p>
+        <div>jquery在线</div>
+        <input type="text" id="name">
+        <input type="checkbox" id="choose">
+        <script>
+        $(document).ready(function(){
+            $("button").click(function(){
+              $("p").hide();
+            });
+          });
+          //添加属性
+          $("p").append('hello jquery')
+          //修改内容
+          $("input[id='name']").val('zyx')
+          $("input[id='choose']").prop("checked",true)
+          </script>
+<button>点我</button>    
+</body>
+</html>

@@ -15,7 +15,11 @@
     </head>
   
     <body>
-        <h1>欢迎来到我家</h1>
+        <h1>欢迎来到家</h1>
+        <!--显示当前的进度条，其实可以看一个定时器-->
+        <div  style="width:500px;background-color:green;height: 10px;">
+        <div id=‘cess’ style="width:30%;background-color:yellow;height:10px"></div>
+        </div>
         <P>正义联盟
             <ol>
                 <li>看我穿衣显瘦，脱衣有肌肉</li>
@@ -57,6 +61,12 @@
                 <input type="submit" value="提交">
         </form>
         </p>
-
+      <script>
+        function f1(){
+           document.getElementById('cess').style.backgroundColor=green;
+          // id.style.backgroundColor='black';
+           }
+           f1();
+      </script>
     </body>
 </html>
