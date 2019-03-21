@@ -2,4 +2,6 @@
 >n.fn.init [Window]
 2.$(this)表示当前的标签，appendto是把找到的标签加入到后面的标签中
 3.javascripts中是if(||){}else{} //||表示或者
-4.
+4.css比html更适合指定样式信息
+5.em强调标签，展示效果是斜体
+6.
