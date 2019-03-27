@@ -6,4 +6,6 @@
 5.em强调标签，展示效果是斜体    
 6.javascripts中的!表示“非”，.each可以循环当前的所有标签   
 7.前端页面中按住ctrl键可以连续选择，也可以通过jquery实现
-8.
+8.把login.html的css专门放在login.css这个样式文件（直接定义格式就行）中，然后添加标签
+<link type="text/css" rel="stylesheet" href="css所在路径" />
+9.
