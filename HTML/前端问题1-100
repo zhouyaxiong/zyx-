@@ -8,4 +8,5 @@
 7.前端页面中按住ctrl键可以连续选择，也可以通过jquery实现
 8.把login.html的css专门放在login.css这个样式文件（直接定义格式就行）中，然后添加标签
 <link type="text/css" rel="stylesheet" href="css所在路径" />
-9.
+9.bootstrap的原则是并行开发，提供一级的视觉效果
+10.
