@@ -10,6 +10,8 @@ git config --global user.name "zhouyaxiong"
 git config --global user.email "411235298@qq.com"     
 
 
+使用git fetch 从远程仓库更新本地的git库
+
 首先确认自己的本地git配置：    
 `zyx:git zyx$ git config --list
 credential.helper=osxkeychain     
